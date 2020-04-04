@@ -2,7 +2,11 @@
   "name": "roms-api",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bgolyoo/roms-api.git"
+  },
+  "author": "Bodor Gergely",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
